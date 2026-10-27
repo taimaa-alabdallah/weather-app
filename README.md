@@ -1,16 +1,49 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web application that provides real-time weather information and forecasts for cities around the world. Built with React and Vite.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🔍 City Search: Easily search for current weather conditions in any city globally.
+- 🌡️ Detailed Metrics: Displays temperature, humidity, wind speed, and weather descriptions.
+- 📱 Fully Responsive: Seamless layout designed for desktop, tablet, and mobile screens.
+- ⚡ Fast & Lightweight: Powered by Vite for optimal performance and rapid loading.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Frontend: React.js, HTML5, CSS3
+- Build Tool: Vite
+- API: open-meteo API
+- Version Control: Git & GitHub
+
+---
+
+## 💻 Getting Started
+
+Follow these steps to set up and run the project locally on your machine:
+
+### Prerequisites
+
+Make sure you have Node.js installed on your system.
+
+### Installation & Setup
+
+1. Clone the repository:
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git]
+
+2. Navigate into the project directory:
+   cd weather-app
+
+3. install dependencies:
+   npm install
+
+4. start the development server:
+   npm run dev
+
+## 📝 License
+
+This project is open-source and available for educational and personal use.
